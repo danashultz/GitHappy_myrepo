@@ -2,7 +2,7 @@
 title: "GitHappy myrepo Ch 18 test"
 author: "Dana S"
 date: "10/7/2020"
-output: html_document
+output: github_document
 ---
 
 ```{r setup, include=FALSE}
